@@ -1,4 +1,4 @@
--- Tutorial 7 - The JOIN operation
+-- Tutorial 7 - More JOIN operation
 -- https://sqlzoo.net/wiki/More_JOIN_operations
 
 -- 1. List the films where the yr is 1962 [Show id, title]
