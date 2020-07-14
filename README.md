@@ -1,5 +1,5 @@
 # SQL-Zoo-Practice
-Learning SQL project required by Microverse as part of the main curriculum which consists of doing Tutorials 0-9 listed under the “Tutorial Section” and the quizzes listed at the end of each from the website https://sqlzoo.net/wiki/
+Learning SQL project required by Microverse as part of the main curriculum which consists of doing Tutorials 0-9 listed under the “Tutorial Section” from the website https://sqlzoo.net/wiki/
 
 ![screenshot](./assets/images/logo.png)
 
